@@ -11,53 +11,45 @@
           "fs": "Geow"
         },
         {
-          "name": "Rumer Victoria Koppelle",
+          "name": "Max Walther",
           "fs": ""
         }
       ],
       "stv": [
         {
-          "name": "Sarah Ickerodt",
+          "name": "Humam Hikmat",
+          "fs": "GI"
+        },
+        {
+          "name": "Maya Kirschbaum",
           "fs": "GeoLoek"
         },
         {
-          "name": "Andreas Rademaker",
-          "fs": "GI"
+          "name": "Anna Friedrichsen",
+          "fs": "GeoLoek"
         },
         {
           "name": "Moritz Tönnis",
           "fs": ""
         },
         {
-          "name": "Malte Fernández Flaschka",
-          "fs": "GeoLoek"
-        },
-        {
-          "name": "Alexander Nicolas Pilz",
-          "fs": "GI"
+          "name": "Andreas Rademaker",
+          "fs": ""
         }
       ]
     },
     "studienbeirat": {
       "ordentlich": [
         {
-          "name": "Mathias Wiggermann",
-          "fs": "Geow"
-        },
-        {
           "name": "Humam Hikmat",
           "fs": "GI"
         },
         {
-          "name": "Nelly Niehaus",
-          "fs": "Geow"
-        },
-        {
-          "name": "Sarah Ickerodt",
+          "name": "Elias Conrad",
           "fs": "GeoLoek"
         },
         {
-          "name": "Robert Voß",
+          "name": "Fiona Beese",
           "fs": "GeoLoek"
         },
         {
@@ -65,34 +57,42 @@
           "fs": "GeoLoek"
         },
         {
-          "name": "Lukas Räuschel",
-          "fs": "GI"
+          "name": "Paul Julius Berger",
+          "fs": ""
+        },
+        {
+          "name": "Hannah Meis",
+          "fs": ""
+        },
+        {
+          "name": "Fanny Koczot",
+          "fs": ""
         }
       ],
       "stv": [
         {
-          "name": "Felix Meier",
+          "name": "Maximilian Schildener",
           "fs": "GeoLoek"
-        },
-        {
-          "name": "Antonius Tschuschke",
-          "fs": "Geow"
         },
         {
           "name": "Eduard Luz",
           "fs": "GeoLoek"
         },
         {
-          "name": "Anne Warnecke",
+          "name": "Paula Schockemöhle",
           "fs": "GeoLoek"
         },
         {
-          "name": "Severin Krohne",
+          "name": "Theresa Conze",
+          "fs": ""
+        },
+        {
+          "name": "Lukas Räuschel",
           "fs": "GI"
         },
         {
-          "name": "Florian Thiemann",
-          "fs": "GI"
+          "name": "Fatma Hatun",
+          "fs": ""
         },
         {
           "name": "Paul Typel",
@@ -103,25 +103,21 @@
     "haushalt": {
       "ordentlich": [
         {
-          "name": "Simon Köster",
+          "name": "Ole Schünemann",
           "fs": "GeoLoek"
         }
       ],
       "stv": [
         {
-          "name": "Jannis Bünger",
-          "fs": "GeoLoek"
-        },
-        {
           "name": "Paula Schockemöhle",
           "fs": "GeoLoek"
         },
         {
-          "name": "Luis Waldeyer",
+          "name": "Florian Thiemann",
           "fs": "GI"
         },
         {
-          "name": "Florian Thiemann",
+          "name": "Luis Waldeyer",
           "fs": "GI"
         },
         {
@@ -133,18 +129,18 @@
     "struktur_planung_evaluation": {
       "ordentlich": [
         {
-          "name": "Emilia Reimann",
+          "name": "Janne Altehoefer",
           "fs": "GeoLoek"
         }
       ],
       "stv": [
         {
-          "name": "Paul Typel",
-          "fs": "Geow"
+          "name": "Lea Marie Heming",
+          "fs": ""
         },
         {
-          "name": "Michael Brüggemann",
-          "fs": "GI"
+          "name": "Kilian Hermanns",
+          "fs": ""
         }
       ]
     },
@@ -155,13 +151,97 @@
           "fs": "GI"
         },
         {
-          "name": "Anne Hartung",
+          "name": "Bjarne Pries",
           "fs": "GeoLoek"
         }
       ],
       "stv": [
         {
-          "name": "Antonius Tschuschke",
+          "name": "Anuschka Ritzert",
+          "fs": ""
+        },
+        {
+          "name": "Julia Göllmann",
+          "fs": ""
+        },
+        {
+          "name": "Lina Hänel",
+          "fs": "GeoLoek"
+        }
+      ]
+    },
+    "qv": {
+      "ordentlich": [
+        {
+          "name": "Fatma Hatun",
+          "fs": ""
+        },
+        {
+          "name": "Julia Göllmann",
+          "fs": ""
+        },
+        {
+          "name": "Felix Meier",
+          "fs": "GeoLoek"
+        },
+        {
+          "name": "Andreas Rademaker",
+          "fs": ""
+        },
+        {
+          "name": "Jannis Bünger",
+          "fs": "GeoLoek"
+        },
+        {
+          "name": "Paula Schockemöhle",
+          "fs": "GeoLoek"
+        },
+        {
+          "name": "Finja Johanna Außendorf",
+          "fs": "GI"
+        }
+      ],
+      "stv": [
+        {
+          "name": "Maximilian Großklaus",
+          "fs": ""
+        },
+        {
+          "name": "Paul Julius Berger",
+          "fs": ""
+        },
+        {
+          "name": "Emma Kersting",
+          "fs": "GeoLoek"
+        },
+        {
+          "name": "Johann Matteo Weickert",
+          "fs": ""
+        },
+        {
+          "name": "Katharina Kettmann",
+          "fs": ""
+        },
+        {
+          "name": "Eduard Luz",
+          "fs": "GeoLoek"
+        }
+      ]
+    },
+    "gleichstellung": {
+      "ordentlich": [
+        {
+          "name": "Humam Hikmat",
+          "fs": "GI"
+        },
+        {
+          "name": "Paula Schockemöhle",
+          "fs": "GeoLoek"
+        }
+      ],
+      "stv": [
+        {
+          "name": "Maria Vetter",
           "fs": "Geow"
         },
         {
@@ -170,104 +250,28 @@
         }
       ]
     },
-    "qv": {
+    "promotion": {
       "ordentlich": [
-        {
-          "name": "Felix Meier",
-          "fs": "GeoLoek"
-        },
-        {
-          "name": "Andreas Rademaker",
-          "fs": "GI"
-        },
-        {
-          "name": "Jannis Bünger",
-          "fs": "GeoLoek"
-        },
-        {
-          "name": "Nils Leuchten",
-          "fs": "GeoLoek"
-        },
-        {
-          "name": "Malin Bach",
-          "fs": "Geow"
-        },
-        {
-          "name": "Michael Brüggemann",
-          "fs": "GI"
-        },
-        {
-          "name": "Max Großklaus",
-          "fs": "Geow"
-        }
-      ],
-      "stv": [
-        {
-          "name": "Severin Krohne",
-          "fs": "GI"
-        },
-        {
-          "name": "Elias Conrad",
-          "fs": "GeoLoek"
-        },
         {
           "name": "Emil Erlenkötter",
-          "fs": "GI"
-        },
-        {
-          "name": "Florian Thiemann",
-          "fs": "GI"
-        },
-        {
-          "name": "Antonius Tschuschke",
-          "fs": "Geow"
-        },
-        {
-          "name": "Max Schildener",
-          "fs": "GeoLoek"
-        }
-      ]
-    },
-    "gleichstellung": {
-      "ordentlich": [
-        {
-          "name": "Michael Brüggemann",
-          "fs": "GI"
-        },
-        {
-          "name": "Sarah Ickerodt",
-          "fs": "GeoLoek"
+          "fs": ""
         }
       ],
       "stv": [
         {
           "name": "Maria Vetter",
           "fs": "Geow"
-        }
-      ]
-    },
-    "promotion": {
-      "ordentlich": [
-        {
-          "name": "Jonas Hurst",
-          "fs": "GI"
-        }
-      ],
-      "stv": [
-        {
-          "name": "Felix Meier",
-          "fs": "GeoLoek"
-        },
-        {
-          "name": "Alexander Pilz",
-          "fs": "GI"
         },
         {
           "name": "Anne Warnecke",
           "fs": "GeoLoek"
         },
         {
-          "name": "Jannis Bünger",
+          "name": "Johann Matteo Weickert",
+          "fs": ""
+        },
+        {
+          "name": "Elias Conrad",
           "fs": "GeoLoek"
         }
       ]
@@ -276,104 +280,107 @@
   "pruefungsausschuesse": {
     "bachelor_geo": {
       "ordentlich": [
-        "Felix Meier"
+        "Jonas Brandt"
       ],
       "stv": [
-        "Malte Fernández Flaschka"
+        "Anna Friedrichsen"
       ]
     },
     "master_humangeo": {
       "ordentlich": [
-        "-"
+        "Jonas Brandt"
       ],
       "stv": [
-        "-"
+        "Anna Friedrichsen"
       ]
     },
     "bachelor_geoinformatik": {
       "ordentlich": [
-        "Andreas Rademaker"
+        "Humam Hikmat"
       ],
       "stv": [
-        "Severin Krohne"
+        "Finja Außendorf"
       ]
     },
     "master_geoinformatics": {
       "ordentlich": [
-        "Alexander Pilz"
+        "Humam Hikmat"
       ],
       "stv": [
-        "Emil Erlenkötter"
+        "Finja Außendorf"
       ]
     },
     "master_geospatial_tech": {
       "ordentlich": [
-        "Alexander Pilz"
+        "Emil Erlenkötter"
       ],
       "stv": [
-        "Emil Erlenkötter"
+        "Johann Matteo Weickert"
       ]
     },
     "bachelor_loek": {
       "ordentlich": [
-        "Jannis Bünger"
+        "Leon-Calvin Nuran"
       ],
       "stv": [
-        "Laura Gust"
+        "Simon Kurlemann"
       ]
     },
     "master_loek": {
       "ordentlich": [
-        "-"
+        "Leon-Calvin Nuran"
       ],
       "stv": [
-        "-"
+        "Simon Kurlemann"
       ]
     },
     "master_loek_auswahl": {
       "ordentlich": [
-        "Eduard Luz"
+        "Ole Schünemann"
       ],
       "stv": [
-        "Anne Götz"
+        "Jana Sinß"
       ]
     },
     "master_wasserwiss": {
       "ordentlich": [
-        "Max Walther"
+        "Simon Köster"
       ],
       "stv": [
-        "Emilia Reimann"
+        "Theresa Eiermann"
       ]
     }
   },
   "institutsvorstaende": {
     "landschaftsoekologie": {
       "ordentlich": [
-        "Emilia Reimann",
-        "Jannis brünger"
+        "Theresa Sofie Eiermann",
+        "Laura Gust"
       ],
       "stv": [
-        "Ben Biskop",
+        "Lina Hänel",
+        "Jannis Bünger",
         "Simon Köster",
-        "Eduard Luz"
+        "Simon Alexander Kurlemann",
+        "Jana Sinß"
       ]
     },
     "geographie": {
       "ordentlich": [
-        "Felix Meier"
+        "Fiona Keziah Beese"
       ],
       "stv": [
-        "Sarah Ickerodt"
+        "Emma Kersting",
+        "Maximilian Schildener"
       ]
     },
     "geoinformatik": {
       "ordentlich": [
-        "Alexander Pilz"
+        "Humam Hikmat"
       ],
       "stv": [
-        "Andreas Rademaker",
-        "Florian Thiemann"
+        "Florian Thiemann",
+        "Lotta Josefine Wistingshausen"
       ]
     },
     "didaktik_geographie": {
@@ -381,8 +388,8 @@
         "Anne Warnecke"
       ],
       "stv": [
-        "Elias Conrad",
-        "Max Walther"
+        "Janne Altehoefer",
+        "Simon Schwarzkopf"
       ]
     }
   }
