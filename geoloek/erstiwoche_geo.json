@@ -1,7 +1,7 @@
 {
-    "year": "2025/26",
-    "start": "06.10.2025",
-    "end": "10.10.2025",
+    "year": "2026/27",
+    "start": "05.10.2026",
+    "end": "09.10.2026",
     "schedule": {
         "montag": {
             "9": null,
@@ -49,7 +49,7 @@
             "9": null,
             "10": {
                 "title": "Geo-Brunch",
-                "detail": "ab 10:30 im GEO1, nach Anmeldung"
+                "detail": "GEO1"
             },
             "11": {
                 "title": "Stadtrallye",
@@ -114,18 +114,21 @@
                 "title": "Vorstellung Allgemeine Studien",
                 "detail": "GEO1"
             },
-            "17": null,
+            "17": {
+                "title": "Fragestunde",
+                "detail": "GEO1"
+            },
             "18": null,
             "19": {
-                "title": "Filmabend",
+                "title": "Pubquiz",
                 "detail": "GEO1, HS"
             },
             "20": {
-                "title": "Filmabend",
+                "title": "Pubquiz",
                 "detail": null
             },
             "21": {
-                "title": "Filmabend",
+                "title": "Pubquiz",
                 "detail": null
             }
         },
@@ -170,11 +173,11 @@
             "10": null,
             "11": {
                 "title": "Anmeldung Ersti-Fahrt",
-                "detail": "GEO1"
+                "detail": "GEO1 ab 11:30"
             },
             "12": {
                 "title": "Verabschiedung",
-                "detail": "GEO1, HS"
+                "detail": "GEO1, HS ab 12:30"
             },
             "13": {
                 "title": "Vorstellung Organisationen",
@@ -194,7 +197,7 @@
             "19": null,
             "20": {
                 "title": "Gemeinsamer Kneipenabend",
-                "detail": "Shooter Stars"
+                "detail": "Treffpunkt noch offen..."
             },
             "21": {
                 "title": "Gemeinsamer Kneipenabend",
@@ -248,6 +251,12 @@
         {
             "title": "Shooter Stars",
             "erklaerung": "Adresse: Alter Steinweg 36",
+            "detail": null,
+            "osmlink": null
+        },
+        {
+            "title": "WhatsApp Gruppe",
+            "erklaerung": "für mehr genuere Infos zu den Veranstaltungen, z.B. Treffpunkten tretet der WhatsApp Gruppe bei, der Link ist unter Aktuelles/News zu finden",
             "detail": null,
             "osmlink": null
         }
