@@ -2,122 +2,127 @@
   "vorstand": [
     {
       "title": "1. Vorsitzender",
-      "name": "Elias Conrad",
-      "studiengang": "asdf"
+      "name": "Emma Kersting",
+      "studiengang": "-"
     },
     {
       "title": "2. Vorsitzende",
-      "name": "Anne Hartung",
-      "studiengang": "M.Sc. Landschaftsökologie"
+      "name": "Theresa Sofie Eiermann",
+      "studiengang": "-"
     },
     {
       "title": "3. Vorsitzender",
-      "name": "Eduard Lutz",
-      "studiengang": "M.Sc. Landschaftsökologie"
+      "name": "Eduard Luz",
+      "studiengang": "-"
     },
     {
       "title": "Finanzreferentin",
-      "name": "Emilia Reimann",
-      "studiengang": "M.Sc. Landschaftsökologie"
+      "name": "Simon Luca Schwarzkopf",
+      "studiengang": "-"
     },
     {
       "title": "Stv. Finanzreferentin",
-      "name": "Sarah Ickerodt",
-      "studiengang": "M.Sc. Landschaftsökologie"
+      "name": "Aneke Lünz",
+      "studiengang": "-"
     }
   ],
   "minister": [
     {
       "title": "Awareness-Ministerium",
       "name1": "Amelie Jacobi",
-      "name2": "Janne Katharina Altehoefer"
+      "name2": "Alexander Hinze"
     },
     {
       "title": "Ersti-Ministerium",
-      "name1": "Elias conrad",
-      "name2": "Maximilian Schildener"
+      "name1": "Maximilian Schildener",
+      "name2": "Janne Altehoefer"
     },
     {
       "title": "FS-Vernetzungsministerium",
-      "name1": "Paula Schockemöhle",
-      "name2": "Christian Spinnrath"
+      "name1": "Eduard Luz",
+      "name2": "Maj-Britt Wilbrand"
     },
     {
       "title": "Event-Ministerium",
-      "name1": "Alina Finja Henkenius",
-      "name2": "Christian Spinnrath"
+      "name1": "Leonie Weckermann",
+      "name2": "Ida Hoffmann"
     },
     {
       "title": "Geoparty-Ministerium",
       "name1": "Robert Voß",
-      "name2": "Alina Finja Henkenius"
-    },
-    {
-      "title": "Getränke-Ministerium",
-      "name1": "Jannis Bünger",
-      "name2": "Laura Gust"
-    },
-    {
-      "title": "Ministerium Für Öffentlichkeitsarbeit",
-      "name1": "Max Walther",
-      "name2": "Maj-Britt Wilbrand"
-    },
-    {
-      "title": "Ministerium für Schlüssel und Verteilerlisten",
-      "name1": "Simon Köster",
-      "name2": "Maximilan Schildener"
-    },
-    {
-      "title": "Verwaltungs-Ministerium",
-      "name1": "Elias Conrad",
-      "name2": "Anne Hartung"
-    },
-    {
-      "title": "Sommerfest-Ministerium",
-      "name1": "Max Walther",
-      "name2": "Anne Hartung"
-    },
-    {
-      "title": "Weihnachts-Minsterium",
-      "name1": "Robert Voß",
       "name2": "Loreen Hoffmann"
     },
     {
+      "title": "Getränke-Ministerium",
+      "name1": "Klara Frankenberg",
+      "name2": "Maya Kirschbaum"
+    },
+    {
+      "title": "Ministerium Für Öffentlichkeitsarbeit",
+      "name1": "Ida Hoffmann",
+      "name2": "Julie Umland"
+    },
+    {
+      "title": "Ministerium für Schlüssel und Verteilerlisten",
+      "name1": "Leon-Calvin Nuran",
+      "name2": "Simon Köster"
+    },
+    {
+      "title": "Verwaltungs-Ministerium",
+      "name1": "Emma Kersting",
+      "name2": "Theresa Sofie Eiermann"
+    },
+    {
+      "title": "Sommerfest-Ministerium",
+      "name1": "Jana Sinß",
+      "name2": "Lina Hänel"
+    },
+    {
+      "title": "Weihnachts-Minsterium",
+      "name1": "Emma Kersting",
+      "name2": "Maj-Britt Wilbrand"
+    },
+    {
       "title": "Finanz-Ministerium",
-      "name1": "Emilia Reimann",
-      "name2": "Sarah Ickerodt"
+      "name1": "Simon Schwarzkopf",
+      "name2": "Aneke Lünz"
     },
     {
       "title": "Nachhaltigkeits-Ministerium",
       "name1": "Julia Jebbink",
-      "name2": "Anne Warnecke"
+      "name2": "Marian Ettemeyer"
     },
     {
       "title": "Geography-Awareness-Week-Ministerium",
-      "name1": "Lukas Terhechte",
-      "name2": "Tim Schaffert"
+      "name1": "Paula Stevens",
+      "name2": "Elisa Lena"
+    },
+    {
+      "title": "StuSem-Ministerium",
+      "name1": "Janne Altehoefer",
+      "name2": "Bjarne Prieß"
     }
   ],
   "andere_minister": [
     {
       "title": "Globi-Ministerium",
-      "name1": "Amelie Jacobi",
-      "name2": "Malte Fernández Flaschka"
+      "name1": "Aneke Lünz",
+      "name2": "Klara Frankenberg"
     },
     {
       "title": "Ministerium für mehr Liebe",
-      "name1": "Anne Hartung",
-      "name2": "Paula Schockemöhle, Sarah Ickerodt"
+      "name1": "Julia Jebbink",
+      "name2": "Maj-Britt Wilbrand, Alexander Hinze"
     },
     {
       "title": "Pflanzen-Ministerium",
-      "name1": "Simon Köster",
-      "name2": "Rayvon Apraku"
+      "name1": "Leon-Calvin Nuran",
+      "name2": "Jana Sinß, Nele Schlüter"
     },
     {
       "title": "Ordnungs-Ministerium",
-      "name1": "Anne Warnecke",
-      "name2": "Max Walther, Jannis Bünger"
+      "name1": "Leon Dering",
+      "name2": "Simon Köster, Maj-Britt Wilbrand"
     }
   ]
 }
