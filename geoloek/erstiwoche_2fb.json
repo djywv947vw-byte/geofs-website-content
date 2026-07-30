@@ -14,19 +14,19 @@
                 "detail": "GEO1, HS"
             },
             "12": {
-                "title": "Mentorengruppen",
+                "title": "Mentorengruppen*",
                 "detail": "GEO1"
             },
             "13": {
-                "title": "Mittagessen",
+                "title": "Mittagessen*",
                 "detail": "Mensa"
             },
             "14": {
-                "title": "CMS Workshop",
+                "title": "CMS Workshop*",
                 "detail": null
             },
             "15": {
-                "title": "Vorstellung Stundenplan",
+                "title": "Vorstellung Stundenplan*",
                 "detail": null
             },
             "16": null,
@@ -91,7 +91,7 @@
             "12": null,
             "13": null,
             "14": {
-                "title": "Wiederholung Vorstellung Stundenplan",
+                "title": "Wiederholung Vorstellung Stundenplan*",
                 "detail": "GEO1"
             },
             "15": null,
@@ -99,7 +99,10 @@
                 "title": "Vorstellung Allgemeine Studien",
                 "detail": "nicht für Lehramt Gym/Ges, GEO1"
             },
-            "17": null,
+            "17": {
+                "title": "Fragestunde",
+                "detail": "GEO1"
+            },
             "18": null,
             "19": {
                 "title": "Pubquiz",
@@ -179,7 +182,7 @@
             "19": null,
             "20": {
                 "title": "Gemeinsamer Kneipenabend",
-                "detail": "Treffpunkt noch offen..."
+                "detail": "Shooter Stars"
             },
             "21": {
                 "title": "Gemeinsamer Kneipenabend",
@@ -188,6 +191,12 @@
         }
     },
     "locations": [
+        {
+            "title": "*",
+            "erklaerung": "Besonders wichtige Informationsveranstaltungen für ZFB",
+            "detail": null,
+            "osmlink": null
+        },
         {
             "title": "GEO1",
             "erklaerung": "\"Unser\" Gebäude, Adresse: Heisenbergstr. 2",
